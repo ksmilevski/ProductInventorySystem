@@ -1,0 +1,11 @@
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\bin\Debug\net9.0\ProductInventorySystem.Models.deps.json
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\bin\Debug\net9.0\ProductInventorySystem.Models.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\bin\Debug\net9.0\ProductInventorySystem.Models.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ProductInventorySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ProductInventorySystem.Models.AssemblyInfoInputs.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ProductInventorySystem.Models.AssemblyInfo.cs
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ProductInventorySystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ProductInventorySystem.Models.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\refint\ProductInventorySystem.Models.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ProductInventorySystem.Models.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Models\obj\Debug\net9.0\ref\ProductInventorySystem.Models.dll

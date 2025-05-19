@@ -1,0 +1,17 @@
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\bin\Debug\net9.0\ProductInventorySystem.Data.deps.json
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\bin\Debug\net9.0\ProductInventorySystem.Data.runtimeconfig.json
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\bin\Debug\net9.0\ProductInventorySystem.Data.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\bin\Debug\net9.0\ProductInventorySystem.Data.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\bin\Debug\net9.0\ProductInventorySystem.Models.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\bin\Debug\net9.0\ProductInventorySystem.Models.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.csproj.AssemblyReference.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.AssemblyInfoInputs.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.AssemblyInfo.cs
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductI.DE5325EC.Up2Date
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\refint\ProductInventorySystem.Data.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ProductInventorySystem.Data.genruntimeconfig.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Data\obj\Debug\net9.0\ref\ProductInventorySystem.Data.dll

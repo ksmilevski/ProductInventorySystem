@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ThisPC\\Desktop\\ProductInventorySystemSolution\\ProductInventorySystem\\ProductInventorySystem\\wwwroot\\images\\5e987960-b191-46ea-9ffd-8a382af25277_officebackground.jpg",
+      "PackagePath": "staticwebassets\\images\\5e987960-b191-46ea-9ffd-8a382af25277_officebackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ThisPC\\Desktop\\ProductInventorySystemSolution\\ProductInventorySystem\\ProductInventorySystem\\wwwroot\\images\\6ac88c40-e23c-4d50-bf46-81358e5a72db_background.jpg",
+      "PackagePath": "staticwebassets\\images\\6ac88c40-e23c-4d50-bf46-81358e5a72db_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ThisPC\\Desktop\\ProductInventorySystemSolution\\ProductInventorySystem\\ProductInventorySystem\\wwwroot\\images\\713a1805-d48c-45f0-a153-1b12476b7162_officebackground.jpg",
+      "PackagePath": "staticwebassets\\images\\713a1805-d48c-45f0-a153-1b12476b7162_officebackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ThisPC\\Desktop\\ProductInventorySystemSolution\\ProductInventorySystem\\ProductInventorySystem\\wwwroot\\images\\85190112-ad8d-4885-a40b-b00e37342470_officebackground.jpg",
+      "PackagePath": "staticwebassets\\images\\85190112-ad8d-4885-a40b-b00e37342470_officebackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ThisPC\\Desktop\\ProductInventorySystemSolution\\ProductInventorySystem\\ProductInventorySystem\\wwwroot\\images\\b2391c8e-53f7-4c2b-9320-39439f5dec40_officebackground.jpg",
+      "PackagePath": "staticwebassets\\images\\b2391c8e-53f7-4c2b-9320-39439f5dec40_officebackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ThisPC\\Desktop\\ProductInventorySystemSolution\\ProductInventorySystem\\ProductInventorySystem\\wwwroot\\images\\ef1dc4fa-6c21-4bc4-aab8-ed69cd606526_officebackground.jpg",
+      "PackagePath": "staticwebassets\\images\\ef1dc4fa-6c21-4bc4-aab8-ed69cd606526_officebackground.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProductInventorySystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProductInventorySystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProductInventorySystem.props",
+      "PackagePath": "build\\ProductInventorySystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductInventorySystem.props",
+      "PackagePath": "buildMultiTargeting\\ProductInventorySystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProductInventorySystem.props",
+      "PackagePath": "buildTransitive\\ProductInventorySystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

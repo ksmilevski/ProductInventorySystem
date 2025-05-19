@@ -1,0 +1,17 @@
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Services.deps.json
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Services.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Services.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Data.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Models.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Data.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\bin\Debug\net9.0\ProductInventorySystem.Models.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.csproj.AssemblyReference.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.AssemblyInfoInputs.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.AssemblyInfo.cs
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductI.7FF1BE1E.Up2Date
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\refint\ProductInventorySystem.Services.dll
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ProductInventorySystem.Services.pdb
+C:\Users\ThisPC\Desktop\ProductInventorySystemSolution\ProductInventorySystem\ProductInventorySystem.Services\obj\Debug\net9.0\ref\ProductInventorySystem.Services.dll

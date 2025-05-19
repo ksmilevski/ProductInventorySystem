@@ -1,0 +1,29 @@
+<div class="container mt-4">
+  <h2>Product Details</h2>
+
+  <div *ngIf="loading" class="alert alert-info">Loading product details...</div>
+
+  <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+
+  <div *ngIf="product && !loading">
+    <div class="card mb-3">
+      <div class="card-header">
+        <strong>{{ product.name }}</strong>
+      </div>
+      <div class="card-body">
+        <p><strong>Description:</strong> {{ product.description || 'N/A' }}</p>
+        <p><strong>Price:</strong> ${{ product.price || 'N/A' }}</p>
+        <p><strong>Quantity In Stock:</strong> {{ product.quantityInStock || 'N/A' }}</p>
+        <p><strong>Category:</strong> {{ product.category || 'N/A' }}</p>
+
+        <div *ngIf="product.imagePath">
+          <p><strong>Image:</strong></p>
+          <img [src]="'http://localhost:5272' + product.imagePath" alt="Product Image" class="img-fluid" style="max-width: 200px;">
+        </div>
+      </div>
+      <div class="card-footer">
+        <button class="btn btn-secondary" (click)="goBack()">Back to List</button>
+      </div>
+    </div>
+  </div>
+</div>
