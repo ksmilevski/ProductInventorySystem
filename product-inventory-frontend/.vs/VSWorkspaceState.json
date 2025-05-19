@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\product-form"
   ],
+  "SelectedNode": "\\src\\app\\components\\product-form\\product-form.component.ts",
   "PreviewInSolutionExplorer": false
 }

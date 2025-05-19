@@ -41,6 +41,11 @@
       </div>
 
       <div class="mb-3">
+        <label for="category" class="form-label">Category</label>
+        <input type="text" id="category" class="form-control" formControlName="category" />
+      </div>
+
+      <div class="mb-3">
         <label for="image" class="form-label">Product Image</label>
         <input type="file" id="image" (change)="onFileSelected($event)" class="form-control" />
       </div>

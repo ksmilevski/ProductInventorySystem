@@ -31,7 +31,7 @@ export class ProductFormComponent implements OnInit {
       description: ['', [Validators.required, Validators.minLength(10)]],
       price: ['', [Validators.required, Validators.min(0.01)]],
       quantityInStock: ['', [Validators.required, Validators.min(1)]],
-      category: ['']
+      category: ['']  // Category is a free text input
     });
   }
 
@@ -108,7 +108,7 @@ export class ProductFormComponent implements OnInit {
 
     const updatedProduct = {
       ...productData,
-      id: this.productId  
+      id: this.productId
     };
 
     this.loading = true;
